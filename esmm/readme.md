@@ -1,6 +1,6 @@
 本文是“基于Tensorflow高阶API构建大规模分布式深度学习模型系列”的第五篇，旨在通过一个完整的案例巩固一下前面几篇文章中提到的各类高阶API的使用方法，同时演示一下用tensorflow高阶API构建一个比较复杂的分布式深度学习模型的完整过程。
 
-文本要实现的深度学习模式是阿里巴巴的算法工程师18年刚发表的论文《Entire Space Multi-Task Model: An Eﬀective Approach for Estimating Post-Click Conversion Rate》中提出的ESMM模型，关于该模型的详细介绍可以参考我之前的一篇文章：《CVR预估的新思路：完整空间多任务模型》。
+文本要实现的深度学习模式是阿里巴巴的算法工程师18年刚发表的论文《Entire Space Multi-Task Model: An Eﬀective Approach for Estimating Post-Click Conversion Rate》中提出的ESMM模型，关于该模型的详细介绍可以参考这篇文章：《CVR预估的新思路：完整空间多任务模型》。
 
 ## 使用说明
 
